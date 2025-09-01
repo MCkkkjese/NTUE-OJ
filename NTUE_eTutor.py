@@ -10,7 +10,7 @@ import ttkbootstrap as ttk
 from PIL import Image, ImageTk
 
 # ---------- 常數 ----------
-VERSION = "beta.25.08.26"
+VERSION = "1.0.0"
 WINDOW_WIDTH = 1920
 WINDOW_HEIGHT = 1080
 
