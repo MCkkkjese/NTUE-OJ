@@ -279,7 +279,7 @@ class GUIInterface:
         g_language_combobox = ttk.Combobox(
             g_win, 
             font=("微軟正黑體", 16), 
-             values=["Python", "C++"], 
+             values=["Python", "C++(正在開發中)"], 
             state="readonly"
         )
         g_language_combobox.place(x=10, y=125, width=250)
@@ -356,7 +356,7 @@ class GUIInterface:
 
         # 程式狀態顯示區
         g_show_answer = tk.Text(g_win, font=("微軟正黑體", 12))
-        g_show_answer.place(x=970, y=716, width=940, height=210)
+        g_show_answer.place(x=970, y=716, width=940, height=295)
         g_show_answer.config(state="disabled")
 
 
