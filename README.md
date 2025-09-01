@@ -43,15 +43,15 @@ NTUE-OJ 是國立臺北教育大學專為程式設計教學與線上練習打造
    git clone https://github.com/MCkkkjese/Computer-Programming-Final-Project.git
 
 2.安裝必要套件：
-```bash
+
 pip install ttkbootstrap Pillow
 
 3.執行程式：
-```bash
+
 python NTUE_OJ.py
 
 4.使用步驟：
-```bash
+
 a.選擇程式語言（Python / C++）
 
 b.選擇題號
