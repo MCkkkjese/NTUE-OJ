@@ -70,7 +70,7 @@ f.查看程式執行結果與 Commit History
 
 本專案改寫自原始專案 [Computer-Programming-Final-Project](https://github.com/MCkkkjese/Computer-Programming-Final-Project.git)，在原有架構上做了全面優化與功能擴充。
 
-本計劃源自於我和[Liyue-Wei](https://github.com/Liyue-Wei)在國立臺東大學大一上的程式設計課的專題。
+本計劃源自於我和[Liyue-Wei](https://github.com/Liyue-Wei)在國立臺東大學資訊管理學系大一上的程式設計課的專題。
 
 特別感謝 [Liyue-Wei](https://github.com/Liyue-Wei) 的構想與啟發，讓 NTUE-OJ 成為可落地運作的專案，沒有他就沒有今天的我。
 
